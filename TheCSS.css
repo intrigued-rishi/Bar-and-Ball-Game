@@ -1,0 +1,36 @@
+button{
+    position:absolute;
+    left:0;
+    top:100px;
+    height:30px;
+    width:60px;
+    background-color: crimson;
+    color: lawngreen;
+}
+#only{
+    height:35px;
+    width:35px;
+    background-color: springgreen;
+    border-radius: 50%;
+    position:absolute;
+    left:48%;
+}
+#plate1{
+    position: absolute;
+    height:20px;
+    width:16%;
+    background-color: violet;
+    margin: auto;
+    left:42%;
+    text-align: center;
+}
+#plate2{
+    text-align: center;
+    position: absolute;
+    height:20px;
+    width:16%;
+    left:42%;
+    background-color: violet;
+    margin: auto;
+    top:95vh
+}
